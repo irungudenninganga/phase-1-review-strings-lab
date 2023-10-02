@@ -5,7 +5,7 @@
 - Concatenate strings with the `+` operator
 - Interpolate variables and other JavaScript expressions inside template literals
 - Read the MDN documentation on string methods and practice using a few
-
+install 
 ## Introduction
 
 For this lab, you've just been onboarded to the dev team working on Flatbook,
